@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChamadaActivity</string>
+    <string name="entre_com_o_texto">Entre com o texto</string>
+    <string name="enviar">Enviar</string>
+    <string name="parametro_passado">Parametro Passado</string>
+    <string name="dados_recebidos">Dados Recebidos</string>
+    <string name="voltar">Voltar</string>
+</resources>
